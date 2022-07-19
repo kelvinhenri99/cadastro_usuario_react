@@ -1,0 +1,11 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Kelvin Henrique Ferreira",
+        "email": "kelvin5henri@gmail.com"
+    }, {
+        "id": 2,
+        "name": "Giovanna Alves Torres",
+        "email": "giovanna9torres@gmail.com"
+    }]
+}
